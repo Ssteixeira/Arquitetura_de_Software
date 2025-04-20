@@ -1,0 +1,26 @@
+Age,Income level,Number of credit cards,Education,Car loans,Application Approval
+39.32747118,Medium,5 or more,College,2,y
+22.25623087,Medium,5 or more,College,3,y
+28.17912885,Medium,5 or more,High school,0,y
+58.69101868,Low,5 or more,High school,2,y
+34.17656639,Medium,Less than 5,College,1,n
+20.89364864,High,5 or more,High school,3,n
+39.51493114,Medium,Less than 5,College,1,y
+22.65651536,Medium,Less than 5,College,1,y
+38.13700188,Medium,Less than 5,College,1,n
+41.20567646,Medium,5 or more,College,2,y
+30.63887765,Medium,5 or more,College,2,y
+33.46499551,,5 or more,High school,,n
+58.16926116,Low,5 or more,College,2,n
+32.06473533,Medium,Less than 5,High school,2,n
+31.47680034,High,Less than 5,College,0,y
+38.190079,High,Less than 5,College,1,y
+37.13244559,High,Less than 5,High school,0,y
+33.90689603,High,Less than 5,College,2,n
+39.25429607,High,Less than 5,High school,0,n
+25.46096197,High,Less than 5,High school,0,y
+27.84784672,Medium,Less than 5,High school,1,y
+29.53268565,Medium,Less than 5,College,1,y
+23.6421213,Medium,Less than 5,High school,1,y
+45.5235792,Medium,5 or more,College,3,n
+28.42536785,High,Less than 5,College,2,n
