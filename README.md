@@ -7,7 +7,9 @@ Disciplina de Arquitetura de Software – 2025
 🧠 Projeto de Análise Preditiva de Depressão em Estudantes
 ---------------------------
 📚 Disciplina: Arquitetura de Software
+
 📌 Objetivo do Projeto
+
 Este repositório tem como finalidade apresentar, de forma estruturada, as atividades desenvolvidas na disciplina de Arquitetura de Software, aplicando conceitos como modularidade, organização de projetos, boas práticas de desenvolvimento e integração com análise de dados.
 Utilizando um dataset real sobre saúde mental de estudantes universitários, o projeto contempla desde o pré-processamento dos dados até a construção e avaliação de modelos de Machine Learning, com foco na predição da depressão.
 
